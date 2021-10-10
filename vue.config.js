@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: '/seminar/'
+    publicPath: '/seminar/',
+    assetsPublicPath: '',
 }
