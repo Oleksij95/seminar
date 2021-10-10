@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 8" width="10" height="8">
+	<title>menu</title>
+	<defs>
+		<image width="31" height="19" id="img1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjMwLjcyN3B4IiBoZWlnaHQ9IjMwLjcyN3B4IiB2aWV3Qm94PSIwIDAgMzAuNzI3IDMwLjcyNyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzAuNzI3IDMwLjcyNzsiDQoJIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZD0iTTI5Ljk5NCwxMC4xODNMMTUuMzYzLDI0LjgxMkwwLjczMywxMC4xODRjLTAuOTc3LTAuOTc4LTAuOTc3LTIuNTYxLDAtMy41MzZjMC45NzctMC45NzcsMi41NTktMC45NzYsMy41MzYsMA0KCQlsMTEuMDk1LDExLjA5M0wyNi40NjEsNi42NDdjMC45NzctMC45NzYsMi41NTktMC45NzYsMy41MzUsMEMzMC45NzEsNy42MjQsMzAuOTcxLDkuMjA2LDI5Ljk5NCwxMC4xODN6Ii8+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8L3N2Zz4NCg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="menu">
+		<g id="menu section">
+			<g id="menu section head">
+				<use id="chevron" href="#img1" transform="matrix(0.325,0,0,0.325,0,-1)"/>
+			</g>
+		</g>
+	</g>
+</svg>
